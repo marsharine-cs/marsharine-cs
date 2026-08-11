@@ -1,16 +1,25 @@
-## Hi there 👋
+# Hi, I'm Marsharine 👋
 
-<!--
-**marsharine-cs/marsharine-cs** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## Computer Science Teacher | S.T.E.M. Educator
 
-Here are some ideas to get you started:
+I am an educator with a background in information technology, cybersecurity, data analytics, technical support, and digital learning.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+I currently hold a New Jersey CTE Computer Science Technology Certificate of Eligibility for grades 9–12 and bring both classroom teaching experience and real-world technology experience into education.
+
+### Areas of Interest
+- Computer Science Education
+- Coding
+- Artificial Intelligence
+- Data Science
+- Cybersecurity
+- Robotics
+- Educational Technology
+
+### Technical Skills
+Python • HTML • CSS • JavaScript • Data Analytics • Power BI • Tableau • Microsoft Excel
+
+### Current Focus
+Building technology projects, strengthening my Computer Science portfolio, and creating practical learning experiences that connect classroom concepts to real-world technology.
+
+### Connect With Me
+[LinkedIn] www.linkedin.com/in/marsharine-a-simpson
