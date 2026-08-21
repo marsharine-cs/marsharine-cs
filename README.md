@@ -17,6 +17,7 @@ My background combines classroom instruction with real-world technology experien
 ## 🚀 Featured Projects
 
 ### 🤖 AI Development Field Guide
+
 **EdTech · AI Literacy · JavaScript · Technical Documentation**
 
 An interactive learning and reference application that transforms AI concepts into a guided educational experience with searchable content, concept exploration, a glossary, reading progress, theme persistence, responsive navigation, and accessibility features.
@@ -26,6 +27,7 @@ An interactive learning and reference application that transforms AI concepts in
 ---
 
 ### 🧠 JavaScript Knowledge Quiz
+
 **Educational Technology · JavaScript · Assessment**
 
 A ten-question instructional application featuring progress tracking, immediate feedback, answer explanations, scoring, review functionality, keyboard support, and retake capability.
@@ -35,6 +37,7 @@ A ten-question instructional application featuring progress tracking, immediate 
 ---
 
 ### 🧮 Ada Lovelace — The Poetry of Computation
+
 **EdTech · Digital History · Web Development**
 
 An interactive digital history experience exploring Ada Lovelace's work through structured educational content, a timeline, interactive notes, responsive design, and accessible navigation.
@@ -111,9 +114,11 @@ I am particularly interested in opportunities involving **Computer Science educa
 ## 📚 More of My Work
 
 ### [dev-tutorial-hub](https://github.com/marsharine-cs/dev-tutorial-hub)
+
 Beginner-friendly coding tutorials and examples covering HTML, CSS, JavaScript, Python, and core web-development concepts.
 
 ### [house-of-lady-amour](https://github.com/marsharine-cs/house-of-lady-amour)
+
 Responsive front-end website project demonstrating GitHub Pages deployment, issue tracking, project planning, iterative development, and Git/GitHub workflow.
 
 ---
