@@ -73,7 +73,7 @@ Additional deployed projects include:
 ## 🛠️ Technical Toolkit
 
 **Development**  
-JavaScript · HTML5 · CSS3 · Python · DOM Manipulation · Responsive Design · Accessibility
+React · TypeScript · JavaScript · HTML5 · CSS3 · Python · DOM Manipulation · Responsive Design · Accessibility
 
 **Tools & Platforms**  
 Git · GitHub · VS Code · Vercel
@@ -82,10 +82,10 @@ Git · GitHub · VS Code · Vercel
 Excel · Power BI · Tableau · Data Analytics · IT Support · Cybersecurity
 
 **Education & Learning Technology**  
-Computer Science Education · Educational Technology · Digital Learning · Assessment · Technical Communication
+Computer Science Education · Curriculum Development · Instructional Design · Educational Technology · Digital Learning · Assessment · Technical Communication
 
-**Currently Exploring**  
-React · TypeScript · AI-powered applications
+**Currently Developing**  
+Full-Stack Applications · Database-Backed Applications · AI-Powered Applications
 
 ---
 
