@@ -26,6 +26,16 @@ An original secondary computer science curriculum project currently centered on 
 
 ---
 
+### 📊 Student Progress Tracker
+
+**Full-Stack EdTech · React · TypeScript · Supabase**
+
+A full-stack classroom application for securely managing students, skills, and assessment records. The current build includes authentication, protected application access, database-backed student and skill records, and assessment-entry/history views. A dashboard for summarizing mastery and support priorities is the next major feature.
+
+**[Live Demo](https://student-progress-tracker-sepia.vercel.app)** · **[Source Code](https://github.com/marsharine-cs/student-progress-tracker)**
+
+---
+
 ### 🤖 AI Development Field Guide
 
 **EdTech · AI Literacy · JavaScript · Technical Documentation**
@@ -125,11 +135,11 @@ I am particularly interested in opportunities involving **Computer Science educa
 
 ### [dev-tutorial-hub](https://github.com/marsharine-cs/dev-tutorial-hub)
 
-Beginner-friendly coding tutorials and examples covering HTML, CSS, JavaScript, Python, and core web-development concepts.
+An evolving beginner-friendly tutorial repository currently focused on Python examples, geometry with Python, and introductory web-development practice.
 
 ### [house-of-lady-amour](https://github.com/marsharine-cs/house-of-lady-amour)
 
-Responsive front-end website project demonstrating GitHub Pages deployment, issue tracking, project planning, iterative development, and Git/GitHub workflow.
+An early-stage front-end and project-planning repository documenting the development of a lifestyle-brand website through GitHub Issues, planning documents, and iterative implementation.
 
 ---
 
