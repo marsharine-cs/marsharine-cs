@@ -137,10 +137,6 @@ I am particularly interested in opportunities involving **Computer Science educa
 
 An evolving beginner-friendly tutorial repository currently focused on Python examples, geometry with Python, and introductory web-development practice.
 
-### [house-of-lady-amour](https://github.com/marsharine-cs/house-of-lady-amour)
-
-An early-stage front-end and project-planning repository documenting the development of a lifestyle-brand website through GitHub Issues, planning documents, and iterative implementation.
-
 ---
 
 ## 🤝 Let's Connect
