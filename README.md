@@ -133,9 +133,9 @@ I am particularly interested in opportunities involving **Computer Science educa
 
 ## 📚 More of My Work
 
-### [dev-tutorial-hub](https://github.com/marsharine-cs/dev-tutorial-hub)
+### [Beginner Python Learning Hub](https://github.com/marsharine-cs/dev-tutorial-hub)
 
-An evolving beginner-friendly tutorial repository currently focused on Python examples, geometry with Python, and introductory web-development practice.
+An evolving beginner-focused Python learning repository built around clear explanations, small examples, guided practice, debugging, and approachable problem-solving. HTML, CSS, and JavaScript support the presentation layer while Python remains the instructional focus.
 
 ---
 
