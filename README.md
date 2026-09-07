@@ -16,6 +16,16 @@ My background combines classroom instruction with real-world technology experien
 
 ## 🚀 Featured Projects
 
+### 📘 Computer Science Secondary Curriculum
+
+**Computer Science Education · Python · Curriculum Development · Instructional Design**
+
+An original secondary computer science curriculum project currently centered on a **36-lesson, 7-unit Introduction to Python course for Grades 9–12**. The public repository demonstrates curriculum architecture, verified Python examples, debugging instruction, assessment design, quality-assurance workflow, and selected portfolio materials while keeping complete teacher resources and protected assessments private.
+
+**[Explore Curriculum Repository](https://github.com/marsharine-cs/computer-science-secondary-curriculum)** · **[View Flagship Lesson](https://github.com/marsharine-cs/computer-science-secondary-curriculum/blob/main/intro-to-python-9-12/sample-lesson-1.3.md)**
+
+---
+
 ### 🤖 AI Development Field Guide
 
 **EdTech · AI Literacy · JavaScript · Technical Documentation**
