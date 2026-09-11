@@ -30,7 +30,7 @@ An original secondary computer science curriculum project currently centered on 
 
 **Full-Stack EdTech · React · TypeScript · Supabase**
 
-A full-stack classroom application for securely managing students, skills, and assessment records. The current build includes authentication, protected application access, database-backed student and skill records, and assessment-entry/history views. A dashboard for summarizing mastery and support priorities is the next major feature.
+A full-stack classroom application for securely managing students, skills, and dated assessment history. Features authentication with password reset, full CRUD for students and skills, and a teacher dashboard showing every student's mastery status across every skill at a glance in a color-coded grid. Backed by Row Level Security, an automated Vitest test suite, and a real GitHub issue/branch/PR workflow.
 
 **[Live Demo](https://student-progress-tracker-sepia.vercel.app)** · **[Source Code](https://github.com/marsharine-cs/student-progress-tracker)**
 
