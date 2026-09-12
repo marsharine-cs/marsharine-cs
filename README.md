@@ -1,12 +1,12 @@
 # Hi, I'm Marsharine A. Simpson 👋
 
-## Computer Science Teacher | S.T.E.M. Educator | Technology Professional
+## Computer Science Teacher | Curriculum Developer | EdTech Builder | Technology Professional
 
 ### I build technology. I teach it. I troubleshoot it.
 
-I work at the intersection of **computer science education, educational technology, software development, IT, cybersecurity, technical support, and digital learning**.
+I work at the intersection of **computer science education, curriculum development, educational technology, software development, AI evaluation, IT, cybersecurity, technical support, and digital learning**.
 
-My background combines classroom instruction with real-world technology experience. I enjoy building practical digital experiences, breaking complex technical concepts into understandable steps, troubleshooting problems systematically, and helping people use technology with confidence.
+My background combines classroom instruction with real-world technology experience. I build practical digital products, develop technical learning experiences, break complex concepts into understandable steps, troubleshoot problems systematically, and evaluate whether technology and instructional content actually work for the people using them.
 
 ### 🌐 Professional Portfolio
 
@@ -30,7 +30,7 @@ An original secondary computer science curriculum project currently centered on 
 
 **Full-Stack EdTech · React · TypeScript · Supabase**
 
-A full-stack classroom application for securely managing students, skills, and dated assessment history. Features authentication with password reset, full CRUD for students and skills, and a teacher dashboard showing every student's mastery status across every skill at a glance in a color-coded grid. Backed by Row Level Security, an automated Vitest test suite, and a real GitHub issue/branch/PR workflow.
+A deployed full-stack classroom application for securely managing students, skills, and dated assessment history. It includes authentication with password reset, full CRUD for students and skills, assessment history, and a teacher dashboard showing each student's latest mastery status across skills. The application uses Supabase Row Level Security, automated testing with Vitest and Testing Library, and a GitHub issue/branch/PR workflow.
 
 **[Live Demo](https://student-progress-tracker-sepia.vercel.app)** · **[Source Code](https://github.com/marsharine-cs/student-progress-tracker)**
 
@@ -116,7 +116,7 @@ Statement of Eligibility · K–12
 
 ## 💼 Professional Perspective
 
-My experience spans **education, SaaS technical support, telecommunications technology, IT, and software projects**.
+My experience spans **education, curriculum development, AI evaluation, SaaS technical support, telecommunications technology, IT, and software projects**.
 
 Teaching strengthens the way I approach technology. It has trained me to:
 
@@ -127,7 +127,7 @@ Teaching strengthens the way I approach technology. It has trained me to:
 - document processes and solutions
 - evaluate whether a solution actually works
 
-I am particularly interested in opportunities involving **Computer Science education, S.T.E.M. education, EdTech, technical training, learning technology, implementation, customer success, technical support, and technology-driven problem solving**.
+I am particularly interested in opportunities involving **Computer Science education, curriculum development, instructional technology, EdTech, technical training, AI/LLM evaluation, technical writing, and junior-to-early-career software engineering or frontend development**.
 
 ---
 
