@@ -141,8 +141,7 @@ An evolving beginner-focused Python learning repository built around clear expla
 
 ## 🤝 Let's Connect
 
-**Portfolio:** [projectsportfolio-nine.vercel.app](https://projectsportfolio-nine.vercel.app/)  
-**LinkedIn:** [linkedin.com/in/marsharine-a-simpson](https://www.linkedin.com/in/marsharine-a-simpson)  
+**Portfolio:** [projectsportfolio-nine.vercel.app](https://projectsportfolio-nine.vercel.app/) 
 **GitHub:** [github.com/marsharine-cs](https://github.com/marsharine-cs)
 
 ---
