@@ -16,7 +16,7 @@ I build practical, user-focused web applications and bring a background in techn
 
 **React · TypeScript · Supabase · PostgreSQL · Vitest**
 
-A deployed full-stack application with authentication, password recovery, Row Level Security, CRUD workflows, dated assessment history, dashboard logic, automated component tests, and documented production debugging.
+A deployed full-stack application with authentication, password recovery, Row Level Security, CRUD workflows, dated assessment history, dashboard logic, 18 automated tests, and documented production debugging.
 
 [Live Application](https://student-progress-tracker-sepia.vercel.app) · [Source Code](https://github.com/marsharine-cs/student-progress-tracker)
 
@@ -42,3 +42,8 @@ A product-focused frontend with centralized interface state, validated quantity 
 - **Backend + Data:** Supabase, PostgreSQL, authentication, Row Level Security, CRUD
 - **Testing + Quality:** Vitest, React Testing Library, TypeScript checking, ESLint, accessibility
 - **Workflow:** Git, GitHub Issues, feature branches, pull requests, Vercel deployment
+
+
+## Contact
+
+For software-development opportunities, email [marsharineasimpson@gmail.com](mailto:marsharineasimpson@gmail.com).
