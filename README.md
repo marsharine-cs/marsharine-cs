@@ -10,6 +10,14 @@ I build practical, user-focused web applications and bring a background in techn
 
 [**View My Developer Portfolio →**](https://projectsportfolio-nine.vercel.app/) · [**Explore My Projects →**](https://projectsportfolio-nine.vercel.app/projects.html)
 
+## Currently Building
+
+### [Secure Service Operations Platform](https://github.com/marsharine-cs/secure-service-operations-platform)
+
+**React · TypeScript · NestJS · PostgreSQL · Docker · Secure Multi-Tenant Architecture**
+
+I am currently building this production-minded service operations platform in public. The repository is in its foundation phase, with product requirements, architecture decisions, threat modeling, delivery standards, and an issue-based implementation roadmap. Implemented capabilities will be documented as the build progresses.
+
 ## Featured Engineering Projects
 
 ### [Student Progress Tracker](https://projectsportfolio-nine.vercel.app/case-studies/student-progress-tracker.html)
